@@ -7,3 +7,4 @@ git-token.txt
 app/
 .env
 .git/
+db_default.env
