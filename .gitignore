@@ -1,3 +1,5 @@
+.gitignore
+.dockerignore
 dbdata/
 esdata/
 docker-compose-for-slims/
