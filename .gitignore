@@ -1,0 +1,9 @@
+dbdata/
+esdata/
+docker-compose-for-slims/
+dockerfile-for-slims/
+slims9_bulian-9.7.2/
+git-token.txt
+app/
+.env
+.git/

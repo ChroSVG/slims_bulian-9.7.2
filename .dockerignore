@@ -1,0 +1,11 @@
+.*compose.yml
+docker-compose-for-slims
+dockerfile-for-slims
+dbdata
+.git
+*.old
+
+
+
+
+
